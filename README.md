@@ -10,8 +10,7 @@ In our first class, we focus on the foundational principles of data curation and
 
 ### What's Inside?
 
-- **`ehr_data_generation.py`**: A Python script to generate synthetic patient data that mimics real-world EHR formats (FHIR and OMOP).
-- **`ehr_eda.ipynb`**: A Jupyter Notebook demonstrating how to perform EDA on the generated EHR data, including data profiling, statistical summaries, and visualizations.
+- **`ehr_heathcare_data_eda.ipynb`**: A Jupyter Notebook to generate synthetic patient data that mimics real-world EHR formats (FHIR and OMOP) and demonstrating how to perform EDA on the generated EHR data, including data profiling, statistical summaries, and visualizations.
 
 ### 🚀 Getting Started
 
@@ -30,9 +29,6 @@ In our first class, we focus on the foundational principles of data curation and
 3.  **Run the code:**
     You can run the script directly or follow along with the Jupyter Notebook to generate and analyze the synthetic data.
 
-    ```bash
-    python ehr_data_generation.py
-    ```
 
 ### ⏭️ What's Next?
 
